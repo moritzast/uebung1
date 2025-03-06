@@ -66,4 +66,4 @@
 /Users/moritzastner/Desktop/FH/4-semester/uebung1/QuestionsAppSimple/obj/Debug/net9.0/QuestionsAppSimple.genruntimeconfig.cache
 /Users/moritzastner/Desktop/FH/4-semester/uebung1/QuestionsAppSimple/obj/Debug/net9.0/ref/QuestionsAppSimple.dll
 /Users/moritzastner/Desktop/FH/4-semester/uebung1/QuestionsAppSimple/bin/Debug/net9.0/QuestionsAppSimple.staticwebassets.runtime.json
-/Users/moritzastner/Desktop/FH/4-semester/uebung1/QuestionsAppSimple/obj/Debug/net9.0/compressed/u10xmc0ym8-btklk5phtc.gz
+/Users/moritzastner/Desktop/FH/4-semester/uebung1/QuestionsAppSimple/obj/Debug/net9.0/compressed/u10xmc0ym8-fdc9jqpf01.gz

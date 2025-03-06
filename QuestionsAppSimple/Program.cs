@@ -27,7 +27,7 @@ app.UseStaticFiles();
 
 // API Routes
 app.MapGet("api/questions", async (QuestionsContext context)
-    => await context.Questions.ToListAsync());
+    => await context.Questions.OrderByDescending(q => q.Votes).ToListAsync());
 
 
 app.MapPost("api/questions/", async (QuestionsContext context, string content) =>
@@ -47,7 +47,12 @@ app.MapPost("api/questions/{id:int}/vote", async (QuestionsContext context, int 
     if (question is null)
         return Results.BadRequest("Invalid Question Id");
 
-    question.Votes++;
+    
+
+    if (question.Votes < 10)
+        question.Votes++;
+    
+
     await context.SaveChangesAsync();
     return Results.Ok();
 });
