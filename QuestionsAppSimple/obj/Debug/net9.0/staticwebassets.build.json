@@ -1,0 +1,362 @@
+{
+  "Version": 1,
+  "Hash": "C81dix+l2a9Ev4CW3viDPXV4ZsOqDtLJOIRFlc3Uyf0=",
+  "Source": "QuestionsAppSimple",
+  "BasePath": "_content/QuestionsAppSimple",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "QuestionsAppSimple/wwwroot",
+      "Source": "QuestionsAppSimple",
+      "ContentRoot": "/Users/moritzastner/Desktop/FH/4-semester/uebung1/QuestionsAppSimple/wwwroot/",
+      "BasePath": "_content/QuestionsAppSimple",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "/Users/moritzastner/Desktop/FH/4-semester/uebung1/QuestionsAppSimple/obj/Debug/net9.0/compressed/u10xmc0ym8-btklk5phtc.gz",
+      "SourceId": "QuestionsAppSimple",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/moritzastner/Desktop/FH/4-semester/uebung1/QuestionsAppSimple/obj/Debug/net9.0/compressed/",
+      "BasePath": "_content/QuestionsAppSimple",
+      "RelativePath": "index#[.{fingerprint=btklk5phtc}]?.html.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "/Users/moritzastner/Desktop/FH/4-semester/uebung1/QuestionsAppSimple/wwwroot/index.html",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "xyovntlwdk",
+      "Integrity": "KeuJgFzqO/Vl4YdQ6YHxl6VgBNpi1cS1BeYk3GeZ5Rw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "/Users/moritzastner/Desktop/FH/4-semester/uebung1/QuestionsAppSimple/wwwroot/index.html"
+    },
+    {
+      "Identity": "/Users/moritzastner/Desktop/FH/4-semester/uebung1/QuestionsAppSimple/wwwroot/index.html",
+      "SourceId": "QuestionsAppSimple",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/moritzastner/Desktop/FH/4-semester/uebung1/QuestionsAppSimple/wwwroot/",
+      "BasePath": "_content/QuestionsAppSimple",
+      "RelativePath": "index#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "btklk5phtc",
+      "Integrity": "n/ScTj8fh3MgJiuOfqKibKZ0gLqOaKxf6qQU3TL+HFM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/index.html"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "index.btklk5phtc.html",
+      "AssetFile": "/Users/moritzastner/Desktop/FH/4-semester/uebung1/QuestionsAppSimple/obj/Debug/net9.0/compressed/u10xmc0ym8-btklk5phtc.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000654878847"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1526"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"KeuJgFzqO/Vl4YdQ6YHxl6VgBNpi1cS1BeYk3GeZ5Rw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 06 Mar 2025 13:39:29 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"n/ScTj8fh3MgJiuOfqKibKZ0gLqOaKxf6qQU3TL+HFM=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "btklk5phtc"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-n/ScTj8fh3MgJiuOfqKibKZ0gLqOaKxf6qQU3TL+HFM="
+        }
+      ]
+    },
+    {
+      "Route": "index.btklk5phtc.html",
+      "AssetFile": "/Users/moritzastner/Desktop/FH/4-semester/uebung1/QuestionsAppSimple/wwwroot/index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4555"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"n/ScTj8fh3MgJiuOfqKibKZ0gLqOaKxf6qQU3TL+HFM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 06 Mar 2025 13:39:29 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "btklk5phtc"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-n/ScTj8fh3MgJiuOfqKibKZ0gLqOaKxf6qQU3TL+HFM="
+        }
+      ]
+    },
+    {
+      "Route": "index.btklk5phtc.html.gz",
+      "AssetFile": "/Users/moritzastner/Desktop/FH/4-semester/uebung1/QuestionsAppSimple/obj/Debug/net9.0/compressed/u10xmc0ym8-btklk5phtc.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1526"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"KeuJgFzqO/Vl4YdQ6YHxl6VgBNpi1cS1BeYk3GeZ5Rw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 06 Mar 2025 13:39:29 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "btklk5phtc"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-KeuJgFzqO/Vl4YdQ6YHxl6VgBNpi1cS1BeYk3GeZ5Rw="
+        }
+      ]
+    },
+    {
+      "Route": "index.html",
+      "AssetFile": "/Users/moritzastner/Desktop/FH/4-semester/uebung1/QuestionsAppSimple/obj/Debug/net9.0/compressed/u10xmc0ym8-btklk5phtc.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000654878847"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1526"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"KeuJgFzqO/Vl4YdQ6YHxl6VgBNpi1cS1BeYk3GeZ5Rw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 06 Mar 2025 13:39:29 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"n/ScTj8fh3MgJiuOfqKibKZ0gLqOaKxf6qQU3TL+HFM=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-n/ScTj8fh3MgJiuOfqKibKZ0gLqOaKxf6qQU3TL+HFM="
+        }
+      ]
+    },
+    {
+      "Route": "index.html",
+      "AssetFile": "/Users/moritzastner/Desktop/FH/4-semester/uebung1/QuestionsAppSimple/wwwroot/index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4555"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"n/ScTj8fh3MgJiuOfqKibKZ0gLqOaKxf6qQU3TL+HFM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 06 Mar 2025 13:39:29 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-n/ScTj8fh3MgJiuOfqKibKZ0gLqOaKxf6qQU3TL+HFM="
+        }
+      ]
+    },
+    {
+      "Route": "index.html.gz",
+      "AssetFile": "/Users/moritzastner/Desktop/FH/4-semester/uebung1/QuestionsAppSimple/obj/Debug/net9.0/compressed/u10xmc0ym8-btklk5phtc.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1526"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"KeuJgFzqO/Vl4YdQ6YHxl6VgBNpi1cS1BeYk3GeZ5Rw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 06 Mar 2025 13:39:29 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-KeuJgFzqO/Vl4YdQ6YHxl6VgBNpi1cS1BeYk3GeZ5Rw="
+        }
+      ]
+    }
+  ]
+}

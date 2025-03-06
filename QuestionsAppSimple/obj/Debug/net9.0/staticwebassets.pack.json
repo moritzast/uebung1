@@ -1,0 +1,29 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/moritzastner/Desktop/FH/4-semester/uebung1/QuestionsAppSimple/wwwroot/index.html",
+      "PackagePath": "staticwebassets/index.html"
+    },
+    {
+      "Id": "obj/Debug/net9.0/staticwebassets/msbuild.QuestionsAppSimple.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj/Debug/net9.0/staticwebassets/msbuild.QuestionsAppSimple.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net9.0/staticwebassets/msbuild.build.QuestionsAppSimple.props",
+      "PackagePath": "build\\QuestionsAppSimple.props"
+    },
+    {
+      "Id": "obj/Debug/net9.0/staticwebassets/msbuild.buildMultiTargeting.QuestionsAppSimple.props",
+      "PackagePath": "buildMultiTargeting\\QuestionsAppSimple.props"
+    },
+    {
+      "Id": "obj/Debug/net9.0/staticwebassets/msbuild.buildTransitive.QuestionsAppSimple.props",
+      "PackagePath": "buildTransitive\\QuestionsAppSimple.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
